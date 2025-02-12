@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jaozr.csgad.com/ODZ/sitemap.xml.gz
